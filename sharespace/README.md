@@ -1,3 +1,5 @@
+# Initial project code and assets belong to Jeff Arends @https://github.com/lothar243/sharespace
+
 ShareSpace Social Media
 
 ShareSpace -- a mini-blog-like-app
